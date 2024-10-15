@@ -59,6 +59,17 @@ Following are the intermediary files generated during the analysis:
 3. population_by_country_AUG.2024.csv -> the dataset containing the population of the countries (Provided in the assignment)
 4. wiki_information.csv -> the dataset containing rev_ids of the wiki articles
 
+Final files generated after the analysis are:
+
+1. wp_countries-no_match.txt -> the file containing the countries which did not match in the population dataset. It is just a list of line seaprated countries.
+2. wp_politicians_by_country -> csv file containing all the required attrbutes. The attributes are:
+   - country: The country of the politician
+   - article_title: The name of the article
+   - revision_id: The revision id of the article
+   - article_quality: The quality of the article
+   - population: The population of the country
+   - region: the region where the country belongs
+
 ## Issues faced/ Special considerations
 
 1. After retriving data from the ORES API, 4 records did not have proper responses. The upper limit given was 1% and since number was less than 1%, I decided to continue with the analysis.
