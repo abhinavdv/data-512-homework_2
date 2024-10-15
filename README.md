@@ -75,7 +75,7 @@ The geographic analysis further highlights that smaller regions generally have m
 
 I could not find any conclusive evidence of a particular set of factors driving these patterns. However, I believe that further research into the impact of literacy, internet access, and government policies on Wikipedia content could provide more insights. I also feel that analysising the size of people actively using wikipedia in a country will give a better understanding of the quality of articles as wikipedia is a platform where people can contribute to the articles.
 
-Question-2: What biases did you expect to find in the data (before you started working with it), and why?
+Question-1: What biases did you expect to find in the data (before you started working with it), and why?
 I expected to find that countries with higher populations would have more article data since there would be more people actively participating. Then, I felt that other factors like internet connectivity access and freedom of speech would impact the access to wikiedia which would inturn imapct the number of articles. Also, I thought that the literacy rates of the country would also impact the quality of the articles.
 
 Question-2: What (potential) sources of bias did you discover in the course of your data processing and analysis?
